@@ -1,4 +1,4 @@
-## gcp setup script
+## gcp conda env setup script
 yum -y install bzip2 htop git gcc unzip
 
 git clone https://github.com/yyuu/pyenv.git ~/.pyenv
